@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
 <h3 align="center">A passionate learner.</h3>
 
-- 🌱 I’m currently learning **Java,Flutter.**
+- 🌱 I’m currently learning **Full Stack WebDevelopment, MERN Stack**
 
 - 💬 Ask me about **C++,DSA,Html,CSS.**
 
