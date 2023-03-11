@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
-<h3 align="center">A passionate learner.</h3>
+<h3 align="center">A passionate learner .</h3>
 
 - 🌱 I’m currently learning **Full Stack WebDevelopment, MERN Stack**
 
-- 💬 Ask me about **C++,DSA,Html,CSS.**
+- 💬 Ask me about **C++,DSA,Html,CSS,CSS Frameworks,Core Java**
 
 - 📫 How to reach me **ritik21311@gmail.com**
 
